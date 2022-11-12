@@ -1,0 +1,17 @@
+token               lexeme
+---------------------------
+Keyword             while
+Real                while
+Identifier          while
+Seperator           (
+Real                s
+Identifier          s
+Operand             <
+Real                upper
+Identifier          upper
+Seperator           )
+Real                t
+Identifier          t
+Operand             =
+Real                33.00
+Seperator           ;
